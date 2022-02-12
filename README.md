@@ -1,3 +1,3 @@
-# Data-Structures-and-Algorithms-with-JavaScript
+### [Data Structures and Algorithms with JavaScript](https://www.amazon.com/Data-Structures-Algorithms-JavaScript-approaches-ebook/dp/B00IV3J23Y)
 
-### *Codes are from the book written by Michael Mcmillan*
+#### The examples are from the book.
